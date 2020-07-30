@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+
+.date {
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+/* apod card */
+.apod-image {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.picOTD-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* apod */
+
+.picOTD {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+}
+
+
